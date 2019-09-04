@@ -4,6 +4,7 @@
 
 # === Rule for dotfiles ===
 # Ignore all dotfiles.
+# changement du .gitignore
 .*
 # Exclude specific dotfiles that we want to track.
 !deps/**/.*
